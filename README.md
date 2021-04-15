@@ -28,5 +28,6 @@ $  docker run -d -p post:80 pass-xx:xx   [post为自定义端口，为所需要�
 $  chmod 777 go.sh
 $  sed -i 's/\r//g' go.sh
 $  ./go.sh
+//一键部署后端口号为6001-6021
 ```
 
